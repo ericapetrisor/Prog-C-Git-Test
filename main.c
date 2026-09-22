@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main (void) {
-	prinf("Hola, Món!\n")
+	prinf("Editat des de GitHub\n")
 	return 0;
 }
 
